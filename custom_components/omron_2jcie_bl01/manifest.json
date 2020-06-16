@@ -1,0 +1,11 @@
+{
+    "domain": "omron_2jcie_bl01",
+    "name": "Omron Electronics 2JCIE-BL01 BLE Environmental Sensor Integration",
+    "documentation": "https://github.com/chibiegg/sensor.omron_2jcie_bl01",
+    "requirements": ["bluepy>=1.3.0"],
+    "dependencies": [],
+    "codeowners": [
+      "@chibiegg"
+    ]
+  }
+  

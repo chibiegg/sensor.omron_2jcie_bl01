@@ -1,0 +1,5 @@
+{
+    "name": "Omron Electronics 2JCIE-BL01 BLE Environmental Sensor",
+    "domains": "sensor",
+    "iot_class": "local push"
+  }
