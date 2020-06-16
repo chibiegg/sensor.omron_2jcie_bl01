@@ -250,7 +250,7 @@ class UVSensor(BaseEntity):
     @property
     def unit_of_measurement(self):
         """Return the unit of measurement."""
-        return ""
+        return "pt"
 
     @property
     def icon(self):
@@ -285,7 +285,7 @@ class DiscomfortIndexSensor(BaseEntity):
     @property
     def unit_of_measurement(self):
         """Return the unit of measurement."""
-        return ""
+        return "pt"
 
     @property
     def icon(self):
@@ -302,7 +302,7 @@ class HeatStrokeSensor(BaseEntity):
     @property
     def unit_of_measurement(self):
         """Return the unit of measurement."""
-        return ""
+        return "pt"
 
     @property
     def icon(self):
@@ -358,7 +358,7 @@ class RSSISensor(BaseEntity):
     @property
     def unit_of_measurement(self):
         """Return the unit of measurement."""
-        return ""
+        return "dBm"
 
     @property
     def device_class(self):
