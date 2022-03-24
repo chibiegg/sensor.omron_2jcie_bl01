@@ -6,6 +6,7 @@
     "dependencies": [],
     "codeowners": [
       "@chibiegg"
-    ]
+    ],
+    "version": "1.0.0"
   }
   
